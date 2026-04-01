@@ -24,7 +24,7 @@ That's it! Works directly in the browser.
 
 ```bash
 # Install
-cd "nueva libreria open chat"
+cd "your directory"
 pip install -e .
 
 # Run
@@ -36,7 +36,7 @@ openchat run
 ## 📁 Structure
 
 ```
-nueva libreria open chat/
+your directory/
 ├── openchat.bat           <- Main menu (double click)
 ├── simple chat/
 │   └── index.html        <- Simple chat (open directly)
@@ -44,7 +44,7 @@ nueva libreria open chat/
 │   ├── cli.py
 │   ├── installer.py
 │   └── server.py
-├── Abrir Chat Simple.bat <- Simple chat shortcut
+├── Open Chat Simple.bat <- Simple chat shortcut
 └── README.md
 ```
 
