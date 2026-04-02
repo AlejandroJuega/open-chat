@@ -24,7 +24,7 @@ That's it! Works directly in the browser.
 
 ```bash
 # Install
-cd "your directory"
+cd "mi-open-chat"
 pip install -e .
 
 # Run
@@ -43,7 +43,8 @@ your directory/
 ├── openchat/             <- Python library
 │   ├── cli.py
 │   ├── installer.py
-│   └── server.py
+│   └─ server.py
+|   └─ setup.py
 ├── Open Chat Simple.bat <- Simple chat shortcut
 └── README.md
 ```
